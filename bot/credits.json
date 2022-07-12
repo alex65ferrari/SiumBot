@@ -1,0 +1,21 @@
+{
+    "dev_credits": [
+        {
+            "name": "alex65ferrari",
+            "url": "https://github.com/alex65ferrari",
+            "role": "Sviluppatore Node.js, Ideazione Bot"
+        },
+        {
+            "name": "maurizio",
+            "url": "https://mariz.io",
+            "role": "Nome a caso tra i crediti"
+        }
+    ],
+    "oss_credits": [
+        {
+            "name": "Discord.js + Pacchetti Collegati",
+            "url": "https://discord.js.org",
+            "description": "discord.js is a powerful Node.js module that allows you to easily interact with the Discord API."
+        }
+    ]
+}

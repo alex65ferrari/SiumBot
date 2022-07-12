@@ -1,0 +1,15 @@
+{
+    "info": {
+        "guild": "903524105389760532"
+    },
+    "command": [
+        {
+            "name": "ping",
+            "description": "Pinga il bot"
+        },
+        {
+            "name": "info",
+            "description": "Invia delle informazioni sul bot."
+        } 
+    ]
+}
